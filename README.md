@@ -26,16 +26,20 @@ show collections lists all the data tables (called collections) inside that data
 - These commands show all the data inside specific collections.
 db.teams.find() fetches all documents from the teams collection and makes them easier to read.
 db.players.find() does the same for the players collection.
+
 ![fecthing documents2](https://github.com/user-attachments/assets/175f16b9-1782-4662-a20e-91d19f105e2a)
+
 ![fecthing documents22](https://github.com/user-attachments/assets/9b5c38a5-94b2-45e1-b414-bb7fb9418dec)
 
 ## 3. 🧮 Count Documents
 - This command tells you how many records are in a collection.
 db.statistics.countDocuments() counts all the documents in the statistics collection.
+
 ![Counting Players4](https://github.com/user-attachments/assets/9c33eb57-d163-4639-b6d6-0f55cb40e082)
 
 ## 5. 📊 Aggregation
 - This command helps you find the top players who scored the most goals.
+- 
 ![aggregation5](https://github.com/user-attachments/assets/a8691700-f247-4f0b-b174-fad484f81678)
 
 ## What it does:
