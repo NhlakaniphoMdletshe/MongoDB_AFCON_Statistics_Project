@@ -44,7 +44,7 @@ db.statistics.countDocuments() counts all the documents in the statistics collec
 
 ## 5. 📊 Aggregation
 - This command helps you find the top players who scored the most goals.
-- 
+  
 ![aggregation5](https://github.com/user-attachments/assets/a8691700-f247-4f0b-b174-fad484f81678)
 
 ## What it does:
