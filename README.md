@@ -1,5 +1,10 @@
 # 🏆 MongoDB_AFCON_Statistics
-data/teams.js, players.js, matches.js, scores.js, statistics.js
+## 🗂️Data
+-teams.js
+- players.js
+- matches.js
+- scores.js
+- statistics.js
 
 # 📘 Introduction
 - This MongoDB project was developed using data inspired by the Africa Cup of Nations (AFCON) 2023, simulating how data can be stored, managed, and analyzed using MongoDB.
@@ -8,11 +13,11 @@ and player stats. It's designed to showcase how MongoDB can structure sports dat
 
 ## 🌍 Dataset Theme: AFCON 2023
 - The dataset reflects elements of the 2023 AFCON tournament, including:
-🏟️ Teams: Participating countries in AFCON 2023
-👤 Players: Squad members with positions and nationality
-📅 Matches: Fixtures between teams, dates, and outcomes
-📊 Scores: Final scores for each match
-📉 Statistics: Individual player performance metrics
+- 🏟️ Teams: Participating countries in AFCON 2023
+- 👤 Players: Squad members with positions and nationality
+- 📅 Matches: Fixtures between teams, dates, and outcomes
+- 📊 Scores: Final scores for each match
+- 📉 Statistics: Individual player performance metrics
 
 # 🔍 Mongo Shell Query Examples
 ## 1. 🗃️ Basic Commands
