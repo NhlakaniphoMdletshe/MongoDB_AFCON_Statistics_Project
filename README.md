@@ -1,6 +1,6 @@
 # 🏆 MongoDB_AFCON_Statistics
 ## 🗂️Data
--teams.js
+- teams.js
 - players.js
 - matches.js
 - scores.js
